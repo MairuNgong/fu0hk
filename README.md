@@ -8,6 +8,7 @@ There are 2 ways to use this software:
 
 1. **AutoHotkey (.ahk script)**
 
+- Download : [AutoHotKey](https://www.autohotkey.com/)
 - Use the `th_en.ahk` script with AutoHotkey.
 - This script can run when Windows starts up.
 
