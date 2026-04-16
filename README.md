@@ -15,3 +15,8 @@ There are 2 ways to use this software:
 
 - Use the `th_en.py` script.
 - Right now, you need to execute it manually.
+
+How to Use It:
+1. Highlight the text
+2. Press `Ctrl + Q`  (The hotkey we set at the top of the script)
+3. The script will instantly replace it with another language
